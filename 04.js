@@ -27,4 +27,6 @@ return newArr.fill(arg2);
 /
 /
 /
-console.log(transform("potato","jacket"))
+console.log(transform("potato","jackets"))
+
+// Bonus! What happens if you swap the arguments in this example?
