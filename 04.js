@@ -1,0 +1,30 @@
+function transform (arg1,arg2) {
+let newArr = new Array(arg1.length);
+return newArr.fill(arg2);
+}
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+console.log(transform("potato","jacket"))
