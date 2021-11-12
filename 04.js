@@ -1,11 +1,11 @@
-function transform (arg1,arg2) {
 let newArr = new Array(arg1.length)
+console.log(newArr)
 if (arg1.length > arg2.length) {
- newArr.fill(arg2);
-} else {
+  newArr.fill(arg2);
+}
   return newArr;
 }
-}
+
 /
 /
 /
