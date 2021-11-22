@@ -9,4 +9,7 @@
 
 ## Examples that highlight potentail bugs
 *   forEach and map and other array methods that skip empty slots
-*   
+
+
+## Regex
+* Use regex as a filter 
