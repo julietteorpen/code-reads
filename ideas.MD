@@ -6,6 +6,7 @@
 *  .reduceRight
 *   x in a - returns boolean - see empty slots lesson
 *   for.... in - to iterate over keys
+*   Object keys and for loops - e.g. for (const key of Object.keys(obj)) 
 
 ## Examples that highlight potentail bugs
 *   forEach and map and other array methods that skip empty slots
