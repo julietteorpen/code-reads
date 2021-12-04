@@ -6,7 +6,7 @@
 *  .reduceRight
 *   x in a - returns boolean - see empty slots lesson
 *   for.... in - to iterate over keys
-*   Object keys and for loops - e.g. for (const key of Object.keys(obj)) 
+*   Object keys and for loops - e.g. `for (const key of Object.keys(obj))` 
 
 
 # Other JS to practice/ use
