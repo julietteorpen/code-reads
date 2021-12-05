@@ -12,8 +12,13 @@
 # Other JS to practice/ use
 * Getters and setters - e.g. 
 `const user = {
-  get userName() { return userName; }
-};`
+  realName: 'Amir',
+  get userName() { return this.realName; },
+  set userName(newName) { this.realName = newName; },
+};
+user.userName = 'Betty';
+[user.realName, user.userName];`
+* Setter property returning undefined when read
 
 ## Examples that highlight potentail bugs
 *   forEach and map and other array methods that skip empty slots
