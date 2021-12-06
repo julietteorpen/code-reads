@@ -19,6 +19,12 @@
 user.userName = 'Betty';
 [user.realName, user.userName];`
 * Setter property returning undefined when read
+* Generator functions 
+* `function* numbersInRange(min, max) {
+  for (let i=min; i<max; i++) {
+    yield i;
+  }
+}`
 
 ## Examples that highlight potentail bugs
 *   forEach and map and other array methods that skip empty slots
